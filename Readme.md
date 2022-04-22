@@ -1,6 +1,6 @@
 # Личный проект «Мишка» 
 
-* Студент: [Владимир Ластовкин](https://up.htmlacademy.ru/adaptive/25/user/1740765).
+* Студент: [Yavorskyi Igor](https://up.htmlacademy.ru/adaptive/25/user/1740765).
 * Наставник: `Неизвестно`.
 
 ---
